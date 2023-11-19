@@ -1,5 +1,6 @@
 # Indian_Election_Analysis-EDA
 The "Indian Election Analysis" project encompasses a comprehensive study of election data, employing Exploratory Data Analysis (EDA) techniques and predictive modeling using the Random Forest algorithm.
+//
 Exploratory Data Analysis (EDA):
 The initial phase of the project focuses on EDA, where extensive analysis is conducted on the dataset to derive meaningful insights. This includes examining the demographic details of candidates, understanding the distribution of votes, and uncovering patterns related to factors such as age, gender, criminal records, and asset holdings. Visualizations, such as histograms, bar charts, and pie charts, are employed to make the data more interpretable. EDA provides a solid foundation for understanding the inherent characteristics of the election dataset.
 Example: 
